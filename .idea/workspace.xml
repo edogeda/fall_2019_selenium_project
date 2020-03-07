@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a983889c-4bee-4478-91b0-8b59e9aa32c8" name="Default Changelist" comment="" />
+    <list default="true" id="a983889c-4bee-4478-91b0-8b59e9aa32c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Utilities/PracticeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Task/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/FakerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/FindElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/GetAttributeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/LinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/LoginPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/SeleniumOH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/VerifyLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/VerifyingErrorMassage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/ClicVsSummit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/GetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/GetAttribute2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/GetText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/TextMethodOfPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day4Xpath/XpathPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Task/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/FakerPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/GetAttributeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/LinkText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/SeleniumOH2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/VerifyLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/VerifyingErrorMassage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/BookitTitleVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/BookitTitleVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/EtsyTitleVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Locators/EtsyTitleVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/FindElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day1_navigation/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/Navigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Task/Navigations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Locators/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/VerifyBookitURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Locators/VerifyBookitURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/VerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day1_navigation/VerifyTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/VerifyURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day2_Locators/VerifyURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/test/VerifyURLOfPracticeWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/test/day3_Locators/VerifyURLOfPracticeWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/BookitTitleVerify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/BookitTitleVerify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/EtsyTitleVerify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Locators/EtsyTitleVerify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/FindElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day1_navigation/FirstClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/Navigations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Task/Navigations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Locators/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/VerifyBookitURL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Locators/VerifyBookitURL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/VerifyTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day1_navigation/VerifyTitle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/VerifyURL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day2_Locators/VerifyURL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/VerifyURLOfPracticeWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/test/day3_Locators/VerifyURLOfPracticeWeb.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +70,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +82,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YUzZdxAyHYA32Tx0jyg1Q0UitT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -40,13 +98,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Login">
-    <configuration name="BookitTitleVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.BookitTitleVerify" />
+  <component name="RunManager" selected="Application.TextMethodOfPath">
+    <configuration name="LinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.day3_Locators.LinkText" />
       <module name="fall_2019_selenium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.test.*" />
+          <option name="PATTERN" value="com.cybertek.test.day3_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.Login" />
+    <configuration name="LoginPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.day3_Locators.LoginPractice2" />
       <module name="fall_2019_selenium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.test.*" />
+          <option name="PATTERN" value="com.cybertek.test.day3_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.Task" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.day3_Locators.Practice1" />
       <module name="fall_2019_selenium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.test.*" />
+          <option name="PATTERN" value="com.cybertek.test.day3_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.Task1" />
+    <configuration name="TextMethodOfPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.day4Xpath.TextMethodOfPath" />
       <module name="fall_2019_selenium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.test.*" />
+          <option name="PATTERN" value="com.cybertek.test.day4Xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Walmart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.Walmart" />
+    <configuration name="XpathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.test.day4Xpath.XpathPractice" />
       <module name="fall_2019_selenium_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.test.*" />
+          <option name="PATTERN" value="com.cybertek.test.day4Xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.BookitTitleVerify" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Walmart" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.TextMethodOfPath" />
+        <item itemvalue="Application.XpathPractice" />
+        <item itemvalue="Application.LinkText" />
+        <item itemvalue="Application.LoginPractice2" />
+        <item itemvalue="Application.Practice1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,5 +186,18 @@
       <updated>1583012017567</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
